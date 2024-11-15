@@ -2,6 +2,8 @@
 
 Editor.js is a lightweight, JavaScript-based text editor that allows users to format text using common text styling options such as bold, italic, underline, and highlights, as well as adding headings and links.
 
+![Editor Image](ScreenShot.png)
+
 ## Features
 
 - **Bold Text**: Toggle bold formatting on and off.
